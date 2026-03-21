@@ -11,13 +11,14 @@ de algo que você realmente gosta de fazer.
 </html>  
 <h3>Minhas linguagens e outras tecnologias</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30">
 
 
 
 <h3>Outros:</h3>
 
 - Inglês (B1/B2)
-- Linux mint XFCE
+- OS: Linux mint XFCE
 - Tenho pouca experiência com Python ainda,<br>
 mas pretendo utilizar Javascript no futuro
