@@ -1,7 +1,7 @@
 # Olá, meu nome é Erick <img src="giphy2.gif" width="50">  
+<img src="wallpaperflare.com_wallpaper.jpg" width="350">
 <p>Sou programador back-end,<br>
   sou de menor então atualmente estou apenas estudando.</p>
-
 Não tenho muitas ideias de projeto em mente.
 
 Decidi aprender a programar por que acho algo muito gratificante<br> 
