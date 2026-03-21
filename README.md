@@ -1,4 +1,4 @@
-<h1>Olá, meu nome é Erick</h1>  
+# Olá, meu nome é Erick<img src="giphy.gif" width="60">  
 <p>Sou programador back-end,<br>
   sou de menor então atualmente estou apenas estudando.</p>
 
