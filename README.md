@@ -1,6 +1,12 @@
 
 <h1>Olá, meu nome é Erick</h1>  
-<p>Sou programador back-end, sou de menor então atualmente estou apenas estudando.</p>  
+<p>Sou programador back-end, sou de menor então atualmente estou apenas estudando.</p>
+
+Não tenho muitas ideias de projeto em mente.
+
+Decidi aprender a programar por que acho algo muito gratificante 
+você ter o poder de conseguir ajudar as pessoas utilizando
+de algo que você realmente gosta de fazer.
 </body>  
 </html>  
 <h3>Minhas linguagens</h3>
