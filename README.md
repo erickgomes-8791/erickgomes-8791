@@ -1,4 +1,4 @@
-# Olá, meu nome é Erick<img src="badge.png" width="50">
+# Olá, meu nome é Erick
 <p>Sou programador back-end,<br>
   sou de menor então atualmente estou apenas estudando.<br>
 Não tenho muitas ideias de projeto em mente.
