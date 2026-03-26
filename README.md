@@ -25,4 +25,4 @@ de algo que você realmente gosta de fazer.
 - Inglês (B1/B2)
 - OS: Linux mint XFCE
 - Tenho pouca experiência com Python ainda,<br>
-mas pretendo utilizar Javascript no futuro
+mas pretendo utilizar PHP ou Javascript no futuro
