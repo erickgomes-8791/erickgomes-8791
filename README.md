@@ -1,5 +1,4 @@
 # Olá, meu nome é Erick<img src="badge.png" width="50">
-<img src="wallpaperflare.com_wallpaper.jpg" width="350">
 <p>Sou programador back-end,<br>
   sou de menor então atualmente estou apenas estudando.<br>
 Não tenho muitas ideias de projeto em mente.
@@ -14,7 +13,7 @@ de algo que você realmente gosta de fazer.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)<br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
