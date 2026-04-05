@@ -1,4 +1,6 @@
-# Olá, meu nome é Erick         
+<div align = center>
+
+# Olá, meu nome é **Erick**
                          
 
 <p>Sou programador back-end,<br>
