@@ -1,7 +1,8 @@
 <div align = center>
 
-# Olá, meu nome é **Erick**
-                         
+# Olá, meu nome é **Erick**  
+
+<div align = left>
 
 <p>Sou programador back-end,<br>
   sou de menor então atualmente estou apenas estudando.<br>
@@ -12,8 +13,12 @@ você ter o poder de conseguir ajudar as pessoas utilizando<br>
 de algo que você realmente gosta de fazer.
 </body>  
 </html>  
+
+<div align = center>
+
 <h3>Minhas linguagens e outras tecnologias</h3>
 
+<div align = left>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
