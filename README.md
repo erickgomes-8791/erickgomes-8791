@@ -10,9 +10,6 @@ Não tenho muitas ideias de projeto em mente.
 Decidi aprender a programar por que acho algo muito gratificante<br> 
 você ter o poder de conseguir ajudar as pessoas utilizando<br>
 de algo que você realmente gosta de fazer.
-</body>  
-</html>  
-
 
 ## Stack
 
