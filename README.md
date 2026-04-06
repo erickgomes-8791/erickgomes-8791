@@ -3,7 +3,7 @@
 # Olá, meu nome é **Erick**  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
-<p>Sou programador back-end,<br>
+Sou programador back-end,<br>
   sou de menor então atualmente estou apenas estudando.<br>
 Não tenho muitas ideias de projeto em mente.
 
