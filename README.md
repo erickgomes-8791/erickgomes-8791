@@ -1,7 +1,16 @@
 <div align = center>
 
-# Olá, meu nome é **Erick**  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+```diff
 
+             .__        __    
+  ___________|__| ____ |  | __
+_/ __ \_  __ \  |/ ___\|  |/ /
+\  ___/|  | \/  \  \___|    < 
+ \___  >__|  |__|\___  >__|_ \
+     \/              \/     \/
+
+
+```
 
 Sou programador back-end,<br>
   sou de menor então atualmente estou apenas estudando.<br>
@@ -10,7 +19,6 @@ Não tenho muitas ideias de projeto em mente.
 Decidi aprender a programar por que acho algo muito gratificante<br> 
 você ter o poder de conseguir ajudar as pessoas utilizando<br>
 de algo que você realmente gosta de fazer.
-
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
