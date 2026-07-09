@@ -19,9 +19,12 @@ de algo que você realmente gosta de fazer.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
 
 ## Outros
 • Inglês (B1/B2)<br>
-• OS: Linux mint XFCE<br>
+• OS: Windows 10 Pro<br>
 • Tenho pouca experiência com Python ainda,<br>
 mas pretendo utilizar PHP ou Javascript no futuro
