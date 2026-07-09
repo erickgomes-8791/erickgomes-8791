@@ -1,6 +1,6 @@
 <div align = center>
 
-```diff
+```
 
              .__        __    
   ___________|__| ____ |  | __
@@ -37,4 +37,3 @@ de algo que você realmente gosta de fazer.
 • Tenho pouca experiência com Python ainda,<br>
 mas pretendo utilizar PHP ou Javascript no futuro
 
-![](https://github.com/erickgomes-8791/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
