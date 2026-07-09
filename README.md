@@ -36,3 +36,5 @@ de algo que você realmente gosta de fazer.
 • OS: Windows 10 Pro<br>
 • Tenho pouca experiência com Python ainda,<br>
 mas pretendo utilizar PHP ou Javascript no futuro
+
+![](https://github.com/erickgomes-8791/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
